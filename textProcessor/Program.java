@@ -1,4 +1,4 @@
-package Java.lab2.textProcessor;
+package textProcessor;
 
 public class Program {
     public static void main(String[] args) {
