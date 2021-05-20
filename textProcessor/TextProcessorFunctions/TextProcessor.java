@@ -1,4 +1,4 @@
-package Java.lab2.textProcessor.TextProcessorFunctions;
+package textProcessor.TextProcessorFunctions;
 
 
 public class TextProcessor {
