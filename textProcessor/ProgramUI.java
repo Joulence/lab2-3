@@ -1,4 +1,4 @@
-package Java.lab2.textProcessor;
+package textProcessor;
 
 import Java.lab2.textProcessor.SerializationFucntions.SerializationOptions;
 import Java.lab2.textProcessor.TextProcessorFunctions.TextProcessor;
