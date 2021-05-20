@@ -1,4 +1,4 @@
-package Java.lab2.textProcessor.SerializationFucntions;
+package textProcessor.SerializationFucntions;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
